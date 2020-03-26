@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 
+title: About (Short Version)
 ---
 
 ![Deryk Makgill](http://derykmakgill.com/josh/assets/deryk-finland.jpg)
