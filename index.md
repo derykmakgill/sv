@@ -76,7 +76,7 @@ Subscribe at
 </p>
 </section>
 
-<section id="newestarticles">
+<section id="home">
 <h2>Newest Articles <small><a href="/blog">see all</a></small></h2>
 <ul>
 	<li><a href="/mny">Time is personal. Your year changes when your life changes.</a></li>
@@ -88,7 +88,7 @@ Subscribe at
 </ul>
 </section>
 
-<section id="popularposts">
+<section id="home">
 <h2>Popular Articles <small><a href="/blog">see all</a></small></h2>
 <ul>
 	<li><a href="/ff">Leadership Lessons from Dancing Guy</a></li>
