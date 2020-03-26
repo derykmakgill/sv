@@ -9,7 +9,7 @@ I invest in and build Bitcoin businesses and projects at [19d6](https://19d6.ch)
 
 I write [here](/archive) on this site about anything that interests me. This includes [book notes](/notes) and product reviews, essays, tutorials, interviews, and personal updates.
 
-I work at [Bitcoin.com](https://bitcoin.com) and [GS,](/glockstore) and have previously been the Director of Marketing at [Praxis.](/praxis) Before and during that time, I did marketing for Voice & Exit, The Foundation for Economic Education, and The Objective Standard, among other companies.
+I worked previously at [Bitcoin.com](https://bitcoin.com) and [GS,](/glockstore), and before that have been the Director of Marketing at [Praxis.](/praxis) I also did marketing for Voice & Exit, The Foundation for Economic Education, and The Objective Standard, among other companies.
 
 I track down and publish rare and lost books at [Makgill Press.](https://press.makgill.ch)
 
