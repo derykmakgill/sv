@@ -155,24 +155,6 @@ If you want the announcements and opportunities that I never post publicly, get 
 <a href="/images/DerekSivers-20141209c-1556.jpg"><img src="/images/DerekSivers-20141209c-100.jpg" alt="Derek Sivers" title="© 2014 Pat Shepherd - patshepherd.co.nz" /></a>
 </section>
 
-<section id="tweets">
-<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
-<dl id="tweetlist">
-	<dt class="small">March 23</dt>
-	<dd>Sometimes the winds of change are a hurricane.</dd>
-	<dt class="small">March 21</dt>
-	<dd>I’ve answered 2100 emails in the last 48 hours. 4000 left. This is intense, but I’m thankful for the connection.</dd>
-	<dt class="small">January 20</dt>
-	<dd>My #1 most-gifted book is “The Third Ear” by Joachim-Ernst Berendt. Forever changes how you think of sound. <a href="https://www.amazon.com/dp/0805020071">https://www.amazon.com/dp/0805020071</a></dd>
-	<dt class="small">December 30</dt>
-	<dd>Time is personal. Your year changes when your life changes. : <a href="https://sivers.org/mny">https://sivers.org/mny</a></dd>
-	<dt class="small">December 3</dt>
-	<dd>I performed at Nara Dreamland with my circus for two weeks in 1992. Then it became this… <a href="https://metro.co.uk/2018/09/01/haunting-photos-capture-abandoned-nara-dreamland-theme-park-in-japan-7903779/">https://metro.co.uk/2018/09/01/haunting-photos-capture-abandoned-nara-dreamland-theme-park-in-japan-7903779/</a></dd>
-	<dt class="small">November 17</dt>
-	<dd>How I became Ryuichi Sakamoto&#39;s guitarist (now on podcast) : <a href="https://sivers.org/sakamoto">https://sivers.org/sakamoto</a> + <a href="https://sivers.org/podcast">https://sivers.org/podcast</a></dd>
-</dl>
-</section>
-
 <section id="search">
 <h2>Search</h2>
 <form action="https://duckduckgo.com/" method="get" class="inlineform">
