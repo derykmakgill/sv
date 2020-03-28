@@ -11,7 +11,7 @@ layout: home
 	Me in 10 seconds
 </h2>
 <p>
-	I’ve been a <a href="/music">musician</a>, <a href="http://artificialrecords.com/">producer</a>, <a href="http://professionalpests.com/">circus performer</a>, <a href="/a">entrepreneur</a>, <a href="/presentations">TED speaker</a>, and <a href="/we14">book publisher</a>.
+	I’ve been a <a href="/music">marketer</a>, <a href="http://artificialrecords.com/">entrepreneur</a>, <a href="http://professionalpests.com/">speaker</a>, <a href="/a">researcher</a>, <a href="/presentations">TED speaker</a>, and <a href="/we14">book publisher</a>.
 </p><p>
 	I started <a href="https://www.cdbaby.com/">CDBaby</a> and <a href="https://www.hostbaby.com/">HostBaby</a> long ago.
 	My <a href="/a">short audio/book about it</a> tells you everything I learned while starting, growing, and selling the business.
