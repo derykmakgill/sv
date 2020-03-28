@@ -88,18 +88,6 @@ Subscribe at
 </ul>
 </section>
 
-<section id="home">
-<h2>Popular Articles <small><a href="/blog">see all</a></small></h2>
-<ul>
-	<li><a href="/ff">Leadership Lessons from Dancing Guy</a></li>
-	<li><a href="/local">You don’t have to be local</a></li>
-	<li><a href="/hellyeah">No yes. Either HELL YEAH or no.</a></li>
-	<li><a href="/multiply">Ideas are just a multiplier of execution</a></li>
-	<li><a href="/trust">Why I gave away my company to charity</a></li>
-	<li><a href="/pa">Parenting : Who is it really for?</a></li>
-</ul>
-</section>
-
 <section id="list">
 <h2>My private email list</h2>
 <p>
@@ -125,12 +113,6 @@ If you want the announcements and opportunities that I never post publicly, get 
 	<dt><a href="https://musicthoughts.com/">MusicThoughts</a></dt>
 	<dd>inspiring quotes about music, translated into Español, Français, Deutsch, Italiano, Português, Русский, العربية, 日本語, and 中文</dd>
 </dl>
-</section>
-
-<section id="interviews">
-<h2>Interviews</h2>
-<p>You can listen to over <a href="/i">44 hours of interviews</a>, where I´m the guest.</p>
-<p>Each one has an MP3 you can download, or a transcript if you prefer to read.</p>
 </section>
 
 <section id="photos">
