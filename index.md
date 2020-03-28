@@ -127,20 +127,6 @@ If you want the announcements and opportunities that I never post publicly, get 
 </dl>
 </section>
 
-<section id="videos">
-<h2>Videos</h2>
-<dl>
-	<dt><a href="https://www.ted.com/speakers/derek_sivers">TED (ted.com)</a></dt>
-	<dd>3 short talks from the TED Conference.</dd>
-	<dt><a href="/anything">Anything You Want</a></dt>
-	<dd>7 short animations from my book “Anything You Want”.</dd>
-	<dt><a href="/wds">Uncommon Sense</a></dt>
-	<dd>Entrepreneur lessons learned from starting, building, and selling CD Baby.</dd>
-	<dt><a href="/presentations">Conference Presentations</a></dt>
-	<dd>Talks from other conferences, all subjects.</dd>
-</dl>
-</section>
-
 <section id="interviews">
 <h2>Interviews</h2>
 <p>You can listen to over <a href="/i">44 hours of interviews</a>, where I´m the guest.</p>
