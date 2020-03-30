@@ -48,33 +48,10 @@ layout: home
 <dl>
 	<dt><a href="/a">Anything You Want</a> <span class="small">(2011)</span></dt>
 	<dd>40 lessons for a new kind of entrepreneur: my tales of starting, building, and selling CD Baby</dd>
-	<dt><a href="/m">Your Music and People</a> <span class="small">(2019)</span></dt>
-	<dd>a philosophy for musicians (and normal people) of getting your work to the world by being creative, considerate, resourceful, descriptive, focused, and connected</dd>
-	<dt><a href="/n">Hell Yeah or No</a> <span class="small">(2019)</span></dt>
-	<dd>a collection of thoughts around re-defining yourself, changing focus, and saying yes to less</dd>
-	<dt><a href="/h">How to Live</a> <span class="small">(2020)</span></dt>
-	<dd>radically different approaches to life, in succinct directives</dd>
 </dl>
 </section>
 
-<section id="podcast">
-<h2>Podcast</h2>
-<p>
-My podcast is an audio version of my blog.
-Each episode is just 1-3 minutes.
-<a href="/podcast">Listen here on my site</a>.
-</p><p>
-Subscribe at
-<a href="https://podcasts.apple.com/us/podcast/derek-sivers/id1485474470">Apple</a>,
-<a href="https://open.spotify.com/show/15cXdV9RBxSZxhyC7Cow6E">Spotify</a>,
-<a href="https://overcast.fm/itunes1485474470">Overcast</a>,
-<a href="https://www.youtube.com/playlist?list=PLcE0XVmYoKM8gcT6nHNHDiK0rSjm8X6eb">YouTube</a>,
-<a href="https://www.stitcher.com/podcast/derek-sivers">Stitcher</a>,
-<a href="https://www.iheart.com/podcast/867-derek-sivers-52276959/">iHeartRadio</a>,
-<a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9zaXZlcnMub3JnL3BvZGNhc3QucnNz">Google</a>, or
-<a href="/podcast.rss">copy the master RSS</a> to paste into your favorite player.
-</p>
-</section>
+
 
 <section id="home">
 <h2>Newest Articles <small><a href="/blog">see all</a></small></h2>
@@ -88,20 +65,6 @@ Subscribe at
 </ul>
 </section>
 
-<section id="list">
-<h2>My private email list</h2>
-<p>
-If you want the announcements and opportunities that I never post publicly, get on my private email list, here:
-</p>
-<form action="/list" method="post" class="inlineform">
-<label for="name">Your Name</label><br>
-<input type="text" name="name" id="name" value=""><br>
-<label for="email">Your Email (kept private! never shared.)</label><br>
-<input type="email" name="email" id="email" value="">
-<input type="hidden" name="listype" value="all">
-<input type="submit" name="submit" value="sign up">
-</form>
-</section>
 
 <section id="companies">
 <h2>Projects <small><a href="/projects">see all projects</a></small></h2>
