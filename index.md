@@ -3,10 +3,7 @@ layout: home
 ---
 
 <section id="aboutme">
-<p>
-	Yes my site is plain on purpose.
-	It’s my minimalist desire for only what’s needed.
-</p>
+
 <h2>
 	Me in 10 seconds
 </h2>
